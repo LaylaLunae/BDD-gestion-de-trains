@@ -9,9 +9,9 @@ Dans le cadre de l'UV NF18, nous avons créé une base de données, par groupe d
 
 ## Collaborateurs
 
-EL ATIA Nadia
-HU Xuanyao
-MIGUEL Laura
+EL ATIA Nadia <br/>
+HU Xuanyao <br/>
+MIGUEL Laura <br/>
 
 # Editing this README
 
