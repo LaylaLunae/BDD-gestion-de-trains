@@ -1,12 +1,10 @@
 # NF18_D4G2_projet1
 
-Dans le cadre de l'UV NF18, nous avons créé une base de données.
+Dans le cadre de l'UV NF18, nous avons créé une base de données, par groupe de quatre étudiants, afin de gérer des gares, leurs trains et leurs lignes.
 
-## Getting started
+## Rapport
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
-
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+- [Rapport du projet](https://github.com/LaylaLunae/NF18/blob/main/NoSQL/rendu5/Rapport_NF18.docx.pdf)
 
 ## Add your files
 
