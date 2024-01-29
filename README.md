@@ -1,7 +1,4 @@
-# NF18_D4G2
-
-## Nom
-Gestion des trains
+# NF18_D4G2 - Gestion des trains
 
 ## Description
 Dans le cadre de l'UV NF18, nous avons créé une base de données, par groupe de quatre étudiants, afin de gérer des gares, leurs trains et leurs lignes.
